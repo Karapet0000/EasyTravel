@@ -1,0 +1,8 @@
+**/rej/**
+**/obj/**
+**/bin/**
+packages/
+.vs/
+.vs
+EasyTravel.sln.rej
+.axoCover/
